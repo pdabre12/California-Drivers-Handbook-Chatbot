@@ -1,0 +1,42 @@
+{
+  "name": "dmv-chatgpt-integration-web-app",
+  "version": "1.0.0",
+  "description": "dmv-chatgpt-integration-web-app",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHRADHA-YEWALE/dmv-chatgpt-integration-web-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SHRADHA-YEWALE/dmv-chatgpt-integration-web-app/issues"
+  },
+  "homepage": "https://github.com/SHRADHA-YEWALE/dmv-chatgpt-integration-web-app#readme",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shradha yewale",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "async": "^3.2.4",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "cron": "^2.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "generic-pool": "^3.9.0",
+    "googleapis": "^105.0.0",
+    "imap": "^0.8.19",
+    "imap-simple": "^5.1.0",
+    "mailparser": "^3.6.2",
+    "node-imap": "^0.9.6",
+    "nodemailer": "^6.8.0",
+    "openai": "^3.1.0",
+    "process": "^0.11.10",
+    "prompt-sync": "^4.2.0",
+    "question-generator": "^0.0.3",
+    "readline-sync": "^1.4.10"
+  }
+}
