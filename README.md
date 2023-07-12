@@ -1,1 +1,4 @@
-"# California-Drivers-Handbook-Chatbot" 
+## California-Drivers-Handbook-Chatbot
+- A customized GPT model has been developed specifically for natural language processing tasks related to the California Driver's Handbook. This specialized GPT model is designed to understand and analyze the content of the handbook, enabling the creation of a comprehensive chatbot capable of handling user queries related to driving rules, regulations, and road safety.
+
+- The GPT model has been trained on a vast amount of data from the California Driver's Handbook, allowing it to provide accurate and relevant information based on users' questions and inquiries. By leveraging state-of-the-art natural language processing techniques, the chatbot is able to understand the nuances of user queries, interpret them in the context of the handbook's content, and generate informative and helpful responses.
